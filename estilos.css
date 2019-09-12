@@ -1,0 +1,15 @@
+body{
+	padding: 2em;
+}
+
+
+.fondo1{
+	background-image: url(cj.jpg);
+	background-size: cover;
+}
+
+
+.txt{
+	font-family: Arial;
+	font-size: 4em;
+}
