@@ -1,3 +1,4 @@
+
 html,body
 {
 	height: 100%;
@@ -31,5 +32,22 @@ background-size: cover;
 
 .menu li a:hover{
 	text-decoration:overline;
+}
+
+
+
+.fondo1{
+	background-image: url(cj.jpg);
+	background-size: cover;
+}
+
+
+.txt{
+	font-family: Arial;
+	font-size: 4em;
+}
+
+.ani{
+	color:red;
 }
 
