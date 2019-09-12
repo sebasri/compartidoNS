@@ -1,0 +1,35 @@
+html,body
+{
+	height: 100%;
+}
+body
+{
+ background-image:  url(img/aLitBVJ6Bg--neWzJJtFO7-jDd8UMNOThf6qnlLO7ic.jpg);
+background-size: cover;
+}
+
+
+.contenido
+{
+	margin: 0 auto;
+	width: 80%;
+}
+.menu
+{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu li a{
+	text-decoration: none;
+	font-size: 150%;
+	font-family: verdana;
+	color: #FFFFFF;
+
+}
+
+.menu li a:hover{
+	text-decoration:overline;
+}
+
